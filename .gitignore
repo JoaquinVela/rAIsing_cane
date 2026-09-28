@@ -3,3 +3,6 @@ __pycache__/
 *.pyc
 .venv/
 .env
+.cane_venv/
+llm/*.gguf
+llm/*.gguf.part
